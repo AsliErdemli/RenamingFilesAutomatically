@@ -5,7 +5,7 @@ function CURIODORrename
 %containing this script. If files to rename are not in a directory, it is
 %advised to do so. 
 
-%newnameprefix == should be a char of what needs to be the fixed part of
+%newNamePrefix == should be a char of what needs to be the fixed part of
 %the newname. Ex: If we want MyNewImageName_1.png, MyNewImageName_2.png, 
 %MyNewImageName_3.png,  We should set newnameprefix as 'MyNewImageName_' 
 
