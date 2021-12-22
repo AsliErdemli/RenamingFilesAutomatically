@@ -13,6 +13,8 @@ function CURIODORrename
 % https://github.com/BumbleBee0819/RenameFilesWithRandomizedIndex/blob/master/RenameFilesWithRandomizedIndex.m,
 % written by Wenyan Bi Sep. 26, 2017. This source code had bugs. 
 
+%% IMPORTANT: The renamed files will overwrite the old ones so be careful not to lose data! Copy them somewhere else before trying.
+
 clear all
 
 %% INPUTS YOU NEED TO ADAPT
